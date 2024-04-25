@@ -1,3 +1,6 @@
-streamlit
-transformers
-torch
+streamlit==0.90.0
+transformers==4.11.3
+torch==1.10.0
+torchvision==0.11.1
+gtts==2.2.3
+pydub==0.30.2
