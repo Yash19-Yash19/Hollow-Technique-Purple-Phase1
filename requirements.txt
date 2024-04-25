@@ -1,8 +1,8 @@
-streamlit
-transformers
-torch
-torchvision
-gtts
-pydub
-SpeechRecognition
-PyAudio
+
+transformers==4.11.3
+torch==1.10.0
+torchvision==0.11.1
+gtts==2.2.3
+pydub==0.30.2
+SpeechRecognition==3.8.1
+PyAudio==0.2.11; platform_system == "Linux"
