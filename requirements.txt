@@ -1,8 +1,7 @@
-
-transformers
-torch
-torchvision
-gtts
-pydub
-SpeechRecognition
-PyAudio ; platform_system == "Linux"
+transformers==4.40.1
+torch==2.3.0
+torchvision==0.18.0
+gtts==2.5.1
+pydub==0.25.1
+SpeechRecognition==3.10.3
+PyAudio==0.2.14
